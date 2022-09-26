@@ -1,3 +1,3 @@
 # Incremental Playground #
 
-foxiehazmat.github.io
+[foxiehazmat.github.io](https://foxiehazmat.github.io)
